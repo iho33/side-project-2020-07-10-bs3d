@@ -1,0 +1,17 @@
+/* custom settings */
+html {
+  background-color: lightblue;
+  background-size: cover;
+}
+
+.App__title {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .App__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }

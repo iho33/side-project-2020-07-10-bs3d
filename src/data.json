@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Lion King",
+        "image": "assets/lion-king.jpeg",
+        "runtime": 89
+    },
+    {
+        "id": 2,
+        "name": "Frozen",
+        "image": "assets/frozen.jpeg",
+        "runtime": 109
+    },
+    {
+        "id": 3,
+        "name": "Toy Story",
+        "image": "assets/toy-story.jpeg",
+        "runtime": 81
+    },   
+    {
+        "id": 4,
+        "name": "Minions",
+        "image": "assets/minions.jpeg",
+        "runtime": 91
+    },   
+    {
+        "id": 5,
+        "name": "Up",
+        "image": "assets/up.jpeg",
+        "runtime": 96
+    },   
+    {
+        "id": 6,
+        "name": "Moana",
+        "image": "assets/moana.jpeg",
+        "runtime": 113
+    },   
+    {
+        "id": 7,
+        "name": "Mulan",
+        "image": "assets/mulan.jpeg",
+        "runtime": 88
+    },   
+    {
+        "id": 8,
+        "name": "Princess and the Frog",
+        "image": "assets/princess-and-the-frog.jpeg",
+        "runtime": 98
+    },   
+    {
+        "id": 9,
+        "name": "Wreck-It-Ralph",
+        "image": "assets/wreck-it-ralph.jpeg",
+        "runtime": 108
+    },   
+    {
+        "id": 10,
+        "name": "Incredibles",
+        "image": "assets/incredibles.jpeg",
+        "runtime": 116
+    }
+]
