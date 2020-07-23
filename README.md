@@ -1,3 +1,9 @@
+# Movies in a Crunch
+### A time-saving movie selection system
+#### A collaborative project by *Team 3*
+#### Team members: In-Ting Ho, Taleb Damaree
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
